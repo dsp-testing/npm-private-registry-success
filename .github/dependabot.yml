@@ -14,4 +14,3 @@ registries:
     url: "jfrogghdemo.jfrog.io/artifactory/api/npm/db-dependabot-local/"
     token: "${{secrets.JFROG_ARTIFACTORY_TOKEN}}"
     replaces-base: true
-
